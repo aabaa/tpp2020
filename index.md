@@ -21,25 +21,25 @@ We hope all participants would consider giving a talk.
 
 
 ## 開催日程 / Date
-TBA
-<!-- 2020年11月16日(月), 17日(火) / Mon. 16th to Tue. 17th, November. -->
+2020年11月16日(月), 17日(火) / Mon. 16th to Tue. 17th, November.
 
 ## 会場 / Venue
-TBA
+今年度はコロナウイルスの影響を鑑みて，オンライン(Zoom)で開催する予定です．
+事前に参加申し込みしていただいた方々には前日までにZoom URLを送付します．
 
 <!-- 
 ## 住所 / Address
 
 〒755-8611 山口県宇部市常盤台2-16-1 / 2-16-1 Tokiwa-dai, Ube, Yamaguchi 755-8611
 [アクセス](https://www.nii.ac.jp/about/access/) / [Access](https://www.nii.ac.jp/en/about/access/)
+--!>
 
 ## 懇親会 / Dinner Party
 
 日時: 11/16 18:30~ / Time: 16th Mon. 18:30~
 
-会場 / Place:
+会場 / Place: オンライン(Zoom)
 
--->
 
 ## 幹事 / Organizer
 
@@ -49,7 +49,11 @@ Kazuhisa NAKASHO (Faculty of Engineering, Yamaguchi University)
 Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 
 ## 参加申し込み / Registration
-TBA
+11/11(水)までに / Please register by 11th November from
+
+<span style="font-size:150%">
+[こちらから / here](https://docs.google.com/forms/d/e/1FAIpQLSceNfw0KZRPFjw9FMe2m5NJ3RGDCnJOtYbJgxktdOl4RxWQdA/viewform)
+</span>
 
 ## プログラム / Technical Program
 TBA
