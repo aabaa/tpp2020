@@ -27,6 +27,9 @@ We hope all participants would consider giving a talk.
 今年度はコロナウイルス感染症 (COVID-19)の感染拡大防止のため，オンライン(Zoom)で開催する予定です．
 事前に参加申し込みしていただいた方々には別途，接続方法等の詳細をお知らせします．
 
+In order to prevent the spread of coronavirus infection (COVID-19), 
+we are planning to hold an online meeting (Zoom) this year. 
+Those who have registered in advance will be notified of the details of how to join the meeting.
 <!--
 ## 住所 / Address
 
