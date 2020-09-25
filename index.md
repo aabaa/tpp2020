@@ -27,12 +27,12 @@ We hope all participants would consider giving a talk.
 今年度はコロナウイルスの影響を鑑みて，オンライン(Zoom)で開催する予定です．
 事前に参加申し込みしていただいた方々には前日までにZoom URLを送付します．
 
-<!-- 
+<!--
 ## 住所 / Address
 
 〒755-8611 山口県宇部市常盤台2-16-1 / 2-16-1 Tokiwa-dai, Ube, Yamaguchi 755-8611
 [アクセス](https://www.nii.ac.jp/about/access/) / [Access](https://www.nii.ac.jp/en/about/access/)
---!>
+-->
 
 ## 懇親会 / Dinner Party
 
