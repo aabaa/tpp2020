@@ -25,7 +25,7 @@ We hope all participants would consider giving a talk.
 
 ## 会場 / Venue
 今年度はコロナウイルス感染症 (COVID-19)の感染拡大防止のため，オンライン(Zoom)で開催する予定です．
-事前に参加申し込みしていただいた方々には前日までにZoom URLを送付します．
+事前に参加申し込みしていただいた方々には別途，接続方法等の詳細をお知らせします．
 
 <!--
 ## 住所 / Address
