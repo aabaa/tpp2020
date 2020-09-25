@@ -35,10 +35,8 @@ We hope all participants would consider giving a talk.
 -->
 
 ## 懇親会 / Dinner Party
-
-日時: 11/16 18:30~ / Time: 16th Mon. 18:30~
-
-会場 / Place: オンライン(Zoom)
+- 日時: 11/16 18:30~ / Time: 16th Mon. 18:30~
+- 会場 / Place: オンライン(Zoom)
 
 
 ## 幹事 / Organizer
