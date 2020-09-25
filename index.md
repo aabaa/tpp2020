@@ -30,6 +30,7 @@ We hope all participants would consider giving a talk.
 In order to prevent the spread of coronavirus infection (COVID-19), 
 we are planning to hold an online meeting (Zoom) this year. 
 Those who have registered in advance will be notified of the details of how to join the meeting.
+
 <!--
 ## 住所 / Address
 
