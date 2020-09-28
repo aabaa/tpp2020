@@ -98,11 +98,15 @@ Reduce as many elements as possible from the set of vectors X while keeping the 
 - b') 互いに直交し合う n 個のベクトルのすべてが黒色となることはない．
 - <span style="color: red"> c') 集合内に互いに直交し合う n 個のベクトルの集合が少なくとも1つは存在する．</span>
 
+<span style="color: blue">4次元や5次元などの低次元への拡張は見つかっていますが，任意の n 次元への拡張は未解決問題かもしれません．</span>
+
 More generally, extend it to the case of n dimensions (n > 3). 
 The problem is to find a set of n-dimensional vectors such that the following conditions a), b') <span style="color: red"> and  c') </span> hold.
 - a) No two orthogonal vectors are both white.
 - b') No n vectors that are orthogonal to each other are all black.
 - <span style="color: red"> c') There is at least one set of three mutually orthogonal vectors in the set. </span>
+
+<span style="color: blue">Extensions to lower dimensions, such as 4 and 5 dimensions, have already been found, but extensions to arbitrary n dimensions might be an open problem.</span>
 
 
 ### 解答 / Solutions
