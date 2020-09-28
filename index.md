@@ -92,6 +92,11 @@ Reduce as many elements as possible from the set of vectors X while keeping the 
 - a) 2つの直交するベクトルの両方が白色になることはない．
 - b') 互いに直交し合う n 個のベクトルのすべてが黒色となることはない．
 
+More generally, extend it to the case of n dimensions (n > 3). 
+The problem is to find a set of n-dimensional vectors such that the following conditions a) and b') hold.
+- a) No two orthogonal vectors are both white.
+- b') No n vectors that are orthogonal to each other are all black.
+
 
 ### 解答 / Solutions
 TBA
