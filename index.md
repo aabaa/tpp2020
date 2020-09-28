@@ -68,14 +68,23 @@ TBA
 ## TPPmark 
 SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．
 
+I made problems to find the solutions using SAT/SMT solvers. You can also prove them without solvers.
+
 ### 問1.
 124本のベクトルからなる集合 X = {(x,y,z) | x,y,z ∈ {0,±1,±√2}} \ {(0,0,0)} の各要素を白または黒に塗り分けることを考えます．
 このとき，次の2条件 a), b) を満たすようにベクトルを白または黒に塗り分けることはできないことを証明してください． 
 - a) 2つの直交するベクトルの両方が白色になることはない． 
 - b) 互いに直交し合う3つのベクトルのすべてが黒色となることはない． 
 
+Consider painting each element of the set X = {(x,y,z) | x,y,z ∈ {0,±1,±√2}} \ {(0,0,0)} of 124 vectors white or black.
+Prove that the vectors cannot be painted white or black in such a way that the following two conditions a) and b) are met. 
+- a) No two orthogonal vectors are both white. 
+- b) No three mutually orthogonal vectors are all black. 
+
 ### 問2.
 条件 a) b)を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
+
+Reduce as many elements as possible from the set of vectors X while keeping the conditions a) and b) (Hint: It is known that you can reduce the number to 33.)
 
 ### 問3. 
 より一般的に n 次元 (n > 3) の場合に拡張してください．
