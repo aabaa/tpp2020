@@ -66,7 +66,7 @@ TBA
 -->
 
 ## TPPmark 
-※ <span style="color: red">(modified at 20:30, Sep. 28th, 2020)</span>
+<span style="color: red">modified at 20:30, Sep. 28th, 2020</span>
 
 SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．回答は nakasho <at> yamaguchi-u.ac.jp まで送付をお願いします．
 
