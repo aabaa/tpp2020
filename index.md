@@ -66,9 +66,10 @@ TBA
 -->
 
 ## TPPmark 
-SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．
+SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．回答は nakasho <at> yamaguchi-u.ac.jp まで送付をお願いします．
 
-I made problems to find the solutions using SAT/SMT solvers. You can also prove them without solvers.
+I made problems to find the solutions using SAT/SMT solvers. You can also prove them without solvers. Please send your answer to nakasho <at> yamaguchi-u.ac.jp.
+
 
 ### 問1.
 124本のベクトルからなる集合 X = {(x,y,z) | x,y,z ∈ {0,±1,±√2}} \ {(0,0,0)} の各要素を白または黒に塗り分けることを考えます．
