@@ -39,7 +39,7 @@ Those who have registered in advance will be notified of the details of how to j
 -->
 
 ## 懇親会 / Dinner Party
-- 日時: 11/16 18:30~ / Time: 16th Mon. 18:30~
+- 日時: 11/16 18:30～ / Time: 16th Mon. 18:30～
 - 会場 / Place: オンライン(Zoom)
 
 
