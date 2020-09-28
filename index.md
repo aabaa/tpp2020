@@ -88,7 +88,7 @@ Prove that the vectors cannot be painted white or black in such a way that the f
 条件 a) b) <span style="color: red"> c) </span> を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
 - <span style="color: red"> c) 集合内に互いに直交し合う3つのベクトルの集合が少なくとも1つは存在する．</span>
 
-Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b') <span style="color: red"> and  c) </span> (Hint: It is known that you can reduce the number to 33.)
+Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b) <span style="color: red"> and  c) </span> (Hint: It is known that you can reduce the number to 33.)
 - <span style="color: red"> c) There is at least one set of three mutually orthogonal vectors in the set. </span>
 
 ### 問3.
