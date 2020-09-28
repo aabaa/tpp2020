@@ -66,48 +66,46 @@ TBA
 -->
 
 ## TPPmark 
-※ <span style="color: red">(modified at 18:00, Sep. 28th, 2020)</span>
+※ <span style="color: red">(modified at 20:10, Sep. 28th, 2020)</span>
 
 SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．回答は nakasho <at> yamaguchi-u.ac.jp まで送付をお願いします．
 
 I made problems to find the solutions using SAT/SMT solvers. You can also prove them without solvers. Please send your answer to nakasho <at> yamaguchi-u.ac.jp.
 
-
 ### 問1.
 124本のベクトルからなる集合 X = {(x,y,z) | x,y,z ∈ {0,±1,±√2}} \ {(0,0,0)} の各要素を白または黒に塗り分けることを考えます．
 このとき，次の2条件 a), b) を満たすようにベクトルを白または黒に塗り分けることはできないことを証明してください． 
-- a) 2つの直交するベクトルの両方が白色になることはない． 
-- b) 互いに直交し合う3つのベクトルのすべてが黒色となることはない． 
+- a) 2つの直交するベクトルのうち，少なくとも1本は黒色である． 
+- b) 互いに直交し合う3つのベクトルのうち，少なくとも1本は白色である． 
 
 Consider painting each element of the set X = {(x,y,z) | x,y,z ∈ {0,±1,±√2}} \ {(0,0,0)} of 124 vectors white or black.
 Prove that the vectors cannot be painted white or black in such a way that the following two conditions a) and b) are met. 
-- a) No two orthogonal vectors are both white. 
-- b) No three mutually orthogonal vectors are all black. 
+- a) Whenever two of the vectors are orthogonal, at least one is black. 
+- b) Whenever three of the vectors are mutually orthogonal, at least one is white. 
 
 ### 問2. 
-条件 a) b) <span style="color: red"> c) </span> を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
-- <span style="color: red"> c) 集合内に互いに直交し合う3つのベクトルの集合が少なくとも1つは存在する．</span>
+条件 c) を満たしつつ，条件 a) と b) の少なくとも一方は成り立たないように，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
+- c) 集合内に互いに直交し合う3つのベクトルの集合が少なくとも1つは存在する．
 
-Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b) <span style="color: red"> and  c) </span> (Hint: It is known that you can reduce the number to 33.)
-- <span style="color: red"> c) There is at least one set of three mutually orthogonal vectors in the set. </span>
+Reduce as many elements as possible from the set of vectors X such that at least one of the conditions a) and b) does not hold while condition c) is satisfied. (Hint: It is known that you can reduce the number to 33.)
+- c) There is at least one set of three mutually orthogonal vectors in the set. 
 
 ### 問3.
 より一般的に n 次元 (n > 3) の場合に拡張してください．
-このとき問題は以下の条件 a), b') <span style="color: red"> c') </span> が成り立つような n 次元ベクトルの集合を見つけることとなります．
-- a) 2つの直交するベクトルの両方が白色になることはない．
-- b') 互いに直交し合う n 個のベクトルのすべてが黒色となることはない．
-- <span style="color: red"> c') 集合内に互いに直交し合う n 個のベクトルの集合が少なくとも1つは存在する．</span>
+このとき問題は，条件 c') を満たしつつ，条件 a) と b') の少なくとも一方は成り立たないように， n 次元ベクトルの集合を見つけることとなります．
+- a) 2つの直交するベクトルのうち，少なくとも1本は黒色である． 
+- b') 互いに直交し合うn本のベクトルのうち，少なくとも1本は白色である． 
+- c') 集合内に互いに直交し合う n 個のベクトルの集合が少なくとも1つは存在する．
 
-<span style="color: blue">4次元や5次元などの低次元への拡張は見つかっていますが，任意の n 次元への拡張は未解決問題かもしれません．</span>
+一般の場合はとても難しいです．特定の n (> 3) に対して，このようなベクトルの集合を構成する回答も歓迎します．
 
 More generally, extend it to the case of n dimensions (n > 3). 
-The problem is to find a set of n-dimensional vectors such that the following conditions a), b') <span style="color: red"> and  c') </span> hold.
-- a) No two orthogonal vectors are both white.
-- b') No n vectors that are orthogonal to each other are all black.
-- <span style="color: red"> c') There is at least one set of three mutually orthogonal vectors in the set. </span>
+The problem is to find a set of n-dimensional vectors such that at least one of the conditions a) and b') does not hold while condition c') is satisfied.
+- a) Whenever two of the vectors are orthogonal, at least one is black.
+- b') Whenever n vectors are mutually orthogonal, at least one is white.
+- c') There exists at least one set of n vectors in the set that are mutually orthogonal to each other.
 
-<span style="color: blue">Extensions to lower dimensions, such as 4 and 5 dimensions, have already been found, but extensions to arbitrary n dimensions might be an open problem.</span>
-
+The general case is very difficult. The constitution of such a set of vectors for a particular n (> 3) is also welcome.
 
 ### 解答 / Solutions
 TBA
