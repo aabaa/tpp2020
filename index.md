@@ -83,20 +83,23 @@ Prove that the vectors cannot be painted white or black in such a way that the f
 - b) No three mutually orthogonal vectors are all black. 
 
 ### 問2.
-条件 a) b)を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
+条件 a) b) <span style="color: red"> c) </span> を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
+- <span style="color: red"> c) 集合内に互いに直交し合う3つのベクトルの集合が少なくとも1つは存在する．</span>
 
-Reduce as many elements as possible from the set of vectors X while keeping the conditions a) and b) (Hint: It is known that you can reduce the number to 33.)
+Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b') <span style="color: red"> and  c') </span> (Hint: It is known that you can reduce the number to 33.)
 
 ### 問3. 
 より一般的に n 次元 (n > 3) の場合に拡張してください．
-このとき問題は以下の条件 a), b')が成り立つような n 次元ベクトルの集合を見つけることとなります．
+このとき問題は以下の条件 a), b') <span style="color: red"> c') </span> が成り立つような n 次元ベクトルの集合を見つけることとなります．
 - a) 2つの直交するベクトルの両方が白色になることはない．
 - b') 互いに直交し合う n 個のベクトルのすべてが黒色となることはない．
+- <span style="color: red"> c') 集合内に互いに直交し合う n 個のベクトルの集合が少なくとも1つは存在する．</span>
 
 More generally, extend it to the case of n dimensions (n > 3). 
-The problem is to find a set of n-dimensional vectors such that the following conditions a) and b') hold.
+The problem is to find a set of n-dimensional vectors such that the following conditions a), b') <span style="color: red"> and  c') </span> hold.
 - a) No two orthogonal vectors are both white.
 - b') No n vectors that are orthogonal to each other are all black.
+- <span style="color: red"> c') There is at least one set of three mutually orthogonal vectors in the set. </span>
 
 
 ### 解答 / Solutions
