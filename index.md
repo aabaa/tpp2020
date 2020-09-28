@@ -66,6 +66,8 @@ TBA
 -->
 
 ## TPPmark 
+※ <span style="color: red">(modified at 18:00, Sep. 28th, 2020)</span>
+
 SAT/SMTソルバで解を探索するような問題にしてみました．それぞれ手証明も可能です．回答は nakasho <at> yamaguchi-u.ac.jp まで送付をお願いします．
 
 I made problems to find the solutions using SAT/SMT solvers. You can also prove them without solvers. Please send your answer to nakasho <at> yamaguchi-u.ac.jp.
@@ -82,13 +84,14 @@ Prove that the vectors cannot be painted white or black in such a way that the f
 - a) No two orthogonal vectors are both white. 
 - b) No three mutually orthogonal vectors are all black. 
 
-### 問2.
+### 問2. 
 条件 a) b) <span style="color: red"> c) </span> を保ったまま，ベクトルの集合 X からできるだけ多くの要素を減らしてください． （ヒント: 33本まで減らせることが知られています．）
 - <span style="color: red"> c) 集合内に互いに直交し合う3つのベクトルの集合が少なくとも1つは存在する．</span>
 
-Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b') <span style="color: red"> and  c') </span> (Hint: It is known that you can reduce the number to 33.)
+Reduce as many elements as possible from the set of vectors X while keeping the conditions a), b') <span style="color: red"> and  c) </span> (Hint: It is known that you can reduce the number to 33.)
+- <span style="color: red"> c) There is at least one set of three mutually orthogonal vectors in the set. </span>
 
-### 問3. 
+### 問3.
 より一般的に n 次元 (n > 3) の場合に拡張してください．
 このとき問題は以下の条件 a), b') <span style="color: red"> c') </span> が成り立つような n 次元ベクトルの集合を見つけることとなります．
 - a) 2つの直交するベクトルの両方が白色になることはない．
