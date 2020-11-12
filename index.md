@@ -58,12 +58,60 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 </span>
 
 ## プログラム / Technical Program
-TBA
+### Nov. 16
+* 15:00 **Opening; On TPP Mark 2020** (30 min)<br/>
+  中正 和久 @ 山口大学
 
-<!--
-### Nov. 18
-### Nov. 19
--->
+* 15:30 **可換代数の形式化** (20 min)<br/>
+  渡瀬 泰成<br/>
+
+* Break (10min)
+
+* 16:00 **MIZAR数学ライブラリの依存関係に関する研究** (20 min)<br/>
+  重中 晟吾 @ 山口大学大学院<br/>
+  Mizarのライブラリ(Mizar Mathematical Library：MML)には依存関係を
+一覧することができないという課題があり，ライブラリメンテナンスの障害となっていた．
+本研究では，Mizarライブラリの依存関係をグラフ化することによって可視化した．
+グラフの描画には，階層グラフ描画及び力学モデルを用いたグラフ描画を用いた．
+さらに，視認性の向上を図るために，任意のノード周辺の依存関係を強調表示する機能，
+任意のノード(article)を検索する機能，任意のノードを動かすことのできる機能を実装した．
+
+* 16:20 **Rings, categories and schemes in Coq/SSReflect** (20 min)<br/>
+  QI, Xuanrui @ 名古屋大学多元数理科学研究科<br/>
+  We report on our ongoing efforts of formalizing algebraic geometry in
+Coq/SSReflect/MathComp, starting with the notion of a scheme.
+Modern algebraic geometry is the result of synthesizing of many areas
+in mathematics, and defining the notion of a scheme requires concepts
+and results in multiple areas of mathematics, particularly commutative
+algebra and category theory. We use packed classes to define a hierarchy
+of rings and categorical structures, and use this hierarchy to formalize
+the notion of an affine scheme. This talk presents unfinished work,
+and the author welcomes all kinds of feedback.
+
+* Break (20min)
+
+* 17:00 **Mizar数学ライブラリをホスティングするWebプラットフォームの研究** (20 min)<br/>
+  山道 大地 @ 山口大学大学院<br/>
+  近年、Mizarライブラリの増加により，ライブラリを読解する時間が増加していることが問題となっている．
+従来研究されてきた対策はいくつかあるが，可読性が低く，形式言語の更新に追従できなかった．
+このような問題を解決するために，私の研究では，形式言語にTeX 形式の解説を併記すると共に，
+解説をライブラリの更新に追従させることができるプラットフォームを作成している．
+
+* 17:20 **定理証明支援系Mizarによる記述を補助するエディタ拡張機能の研究** (20 min)<br/>
+  谷口 広途 @ 山口大学大学院<br/>
+  本研究では，数学の書式に近く，可読性が高い定理証明支援系 Mizar を支援するための
+エディタ拡張機能「Mizar Extension」を開発している．
+本講演では，Mizar Extensionの現状と今後について発表する．
+
+* 17:40 **Mersenne-Twisterの形式化** (20 min)<br/>
+  才川 隆文 @ 名古屋大学<br/>
+  乱数生成器Mersenne-Twisterの、Coq + Mathcompでの形式化について、進行中の仕事を紹介する。
+アルゴリズムの形式化とCプログラムの抽出、長周期性の証明に必要ないくつかの代数的性質が証明が、
+これまでにできている。多項式の既約性判定がまだできていない。
+
+* Break (30min)
+
+* 18:30 **Dinner Party**
 
 ## TPPmark 
 <span style="color: red">modified at 20:30, Sep. 28th, 2020</span>
