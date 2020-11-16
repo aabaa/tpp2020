@@ -21,7 +21,7 @@ We hope all participants would consider giving a talk.
 
 
 ## 開催日程 / Date
-2020年11月16日(月), 17日(火) / Mon. 16th to Tue. 17th, November.
+2020年11月16日(月) / Mon. 16th, November.
 
 ## 会場 / Venue
 今年度はコロナウイルス感染症 (COVID-19)の感染拡大防止のため，オンライン(Zoom)で開催する予定です．
