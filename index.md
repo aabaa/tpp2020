@@ -59,15 +59,15 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 
 ## プログラム / Technical Program
 ### Nov. 16
-* 15:00 **Opening; On TPP Mark 2020** (30 min)<br/>
+* 15:10 **Opening; On TPP Mark 2020** ([slides](tpp2020-nakasho.pdf)) <br/>
   中正 和久 @ 山口大学
 
-* 15:30 **可換代数の形式化** (20 min)<br/>
+* 15:40 **可換代数の形式化** <br/>
   渡瀬 泰成<br/>
 
 * Break (10min)
 
-* 16:00 **MIZAR数学ライブラリの依存関係に関する研究** (20 min)<br/>
+* 16:10 **MIZAR数学ライブラリの依存関係に関する研究** (20 min)<br/>
   重中 晟吾 @ 山口大学大学院<br/>
   Mizarのライブラリ(Mizar Mathematical Library：MML)には依存関係を
 一覧することができないという課題があり，ライブラリメンテナンスの障害となっていた．
@@ -76,7 +76,7 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 さらに，視認性の向上を図るために，任意のノード周辺の依存関係を強調表示する機能，
 任意のノード(article)を検索する機能，任意のノードを動かすことのできる機能を実装した．
 
-* 16:20 **Rings, categories and schemes in Coq/SSReflect** (20 min)<br/>
+* 16:30 **Rings, categories and schemes in Coq/SSReflect** (20 min)<br/>
   QI, Xuanrui @ 名古屋大学多元数理科学研究科<br/>
   We report on our ongoing efforts of formalizing algebraic geometry in
 Coq/SSReflect/MathComp, starting with the notion of a scheme.
@@ -90,26 +90,26 @@ and the author welcomes all kinds of feedback.
 
 * Break (20min)
 
-* 17:00 **Mizar数学ライブラリをホスティングするWebプラットフォームの研究** (20 min)<br/>
+* 17:10 **Mizar数学ライブラリをホスティングするWebプラットフォームの研究** (20 min)<br/>
   山道 大地 @ 山口大学大学院<br/>
   近年、Mizarライブラリの増加により，ライブラリを読解する時間が増加していることが問題となっている．
 従来研究されてきた対策はいくつかあるが，可読性が低く，形式言語の更新に追従できなかった．
 このような問題を解決するために，私の研究では，形式言語にTeX 形式の解説を併記すると共に，
 解説をライブラリの更新に追従させることができるプラットフォームを作成している．
 
-* 17:20 **定理証明支援系Mizarによる記述を補助するエディタ拡張機能の研究** (20 min)<br/>
+* 17:30 **定理証明支援系Mizarによる記述を補助するエディタ拡張機能の研究** (20 min)<br/>
   谷口 広途 @ 山口大学大学院<br/>
   本研究では，数学の書式に近く，可読性が高い定理証明支援系 Mizar を支援するための
 エディタ拡張機能「Mizar Extension」を開発している．
 本講演では，Mizar Extensionの現状と今後について発表する．
 
-* 17:40 **Mersenne-Twisterの形式化** (20 min)<br/>
+* 17:50 **Mersenne-Twisterの形式化** (20 min)<br/>
   才川 隆文 @ 名古屋大学<br/>
   乱数生成器Mersenne-Twisterの、Coq + Mathcompでの形式化について、進行中の仕事を紹介する。
 アルゴリズムの形式化とCプログラムの抽出、長周期性の証明に必要ないくつかの代数的性質が証明が、
 これまでにできている。多項式の既約性判定がまだできていない。
 
-* Break (30min)
+* Break (20min)
 
 * 18:30 **Dinner Party**
 
@@ -156,7 +156,8 @@ The problem is to find a set of n-dimensional vectors such that at least one of 
 The general case is very difficult. The constitution of such a set of vectors for a particular n (> 3) is also welcome.
 
 ### 解答 / Solutions
-TBA
+- Jacques Garrigue [Coq](tppmark2020-garrigue.v)
+- Masahiro Sakai [QBF solver](https://github.com/msakai/tppmark2020)
 
 ## これまでのTPP / Past TPPs
 [TPP2019](https://akihisayamada.github.io/tpp2019/) /
