@@ -59,10 +59,10 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 
 ## プログラム / Technical Program
 ### Nov. 16
-* 15:10 **Opening; On TPP Mark 2020** ([slides](tpp2020-nakasho.pdf)) <br/>
+* 15:10 **Opening; On TPP Mark 2020** (30min) ([slides](tpp2020-nakasho.pdf)) <br/>
   中正 和久 @ 山口大学
 
-* 15:40 **可換代数の形式化** ([slides](tpp2020-watase.pdf)) <br/>
+* 15:40 **可換代数の形式化** (20min) ([slides](tpp2020-watase.pdf)) <br/>
   渡瀬 泰成<br/>
 
 * Break (10min)
