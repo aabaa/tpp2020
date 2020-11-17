@@ -156,7 +156,7 @@ The problem is to find a set of n-dimensional vectors such that at least one of 
 The general case is very difficult. The constitution of such a set of vectors for a particular n (> 3) is also welcome.
 
 ### 解答 / Solutions
-- Jacques Garrigue [Coq](tppmark2020-garrigue.v)
+- Jacques Garrigue [Coq](https://github.com/aabaa/tpp2020/blob/gh-pages/tppmark2020-garrigue.v)
 - Masahiro Sakai [QBF solver](https://github.com/msakai/tppmark2020)
 
 ## これまでのTPP / Past TPPs
