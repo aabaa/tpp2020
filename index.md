@@ -90,7 +90,7 @@ and the author welcomes all kinds of feedback.
 
 * Break (20min)
 
-* 17:10 **Mizar数学ライブラリをホスティングするWebプラットフォームの研究** (20 min)<br/>
+* 17:10 **Mizar数学ライブラリをホスティングするWebプラットフォームの研究** (20 min) ([slides](tpp2020-yamamichi.pdf)) <br/>
   山道 大地 @ 山口大学大学院<br/>
   近年、Mizarライブラリの増加により，ライブラリを読解する時間が増加していることが問題となっている．
 従来研究されてきた対策はいくつかあるが，可読性が低く，形式言語の更新に追従できなかった．
