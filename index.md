@@ -76,7 +76,7 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 さらに，視認性の向上を図るために，任意のノード周辺の依存関係を強調表示する機能，
 任意のノード(article)を検索する機能，任意のノードを動かすことのできる機能を実装した．
 
-* 16:30 **Rings, categories and schemes in Coq/SSReflect** (20 min)<br/>
+* 16:30 **Rings, categories and schemes in Coq/SSReflect** (20 min) ([slides](tpp2020-qi.pdf))<br/>
   QI, Xuanrui @ 名古屋大学多元数理科学研究科<br/>
   We report on our ongoing efforts of formalizing algebraic geometry in
 Coq/SSReflect/MathComp, starting with the notion of a scheme.
