@@ -67,7 +67,7 @@ Email: nakasho&lt;at&gt;yamaguchi-u.ac.jp
 
 * Break (10min)
 
-* 16:10 **MIZAR数学ライブラリの依存関係に関する研究** (20 min)<br/>
+* 16:10 **MIZAR数学ライブラリの依存関係に関する研究** (20 min) ([slides](tpp2020-shigenaka.pdf)) <br/>
   重中 晟吾 @ 山口大学大学院<br/>
   Mizarのライブラリ(Mizar Mathematical Library：MML)には依存関係を
 一覧することができないという課題があり，ライブラリメンテナンスの障害となっていた．
