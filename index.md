@@ -103,7 +103,7 @@ and the author welcomes all kinds of feedback.
 エディタ拡張機能「Mizar Extension」を開発している．
 本講演では，Mizar Extensionの現状と今後について発表する．
 
-* 17:50 **Mersenne-Twisterの形式化** (20 min)<br/>
+* 17:50 **Mersenne-Twisterの形式化** (20 min) ([slides](tpp2020-saikawa1.pdf)) ([preprint](tpp2020-saikawa2.pdf))<br/>
   才川 隆文 @ 名古屋大学<br/>
   乱数生成器Mersenne-Twisterの、Coq + Mathcompでの形式化について、進行中の仕事を紹介する。
 アルゴリズムの形式化とCプログラムの抽出、長周期性の証明に必要ないくつかの代数的性質が証明が、
